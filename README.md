@@ -1,4 +1,4 @@
-# testing vs code integration with github
+# testing VS code integration
 
 # Tutorial: Run scripts on every page
 
